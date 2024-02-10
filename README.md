@@ -14,7 +14,7 @@ Hi, I am Sadsham. I am sad so that no one else is.
     <header>
         <h1>Saksham by day, Sadsham by night<h1>
                 <div style="display: flex;">
-SadSham: The Sole Sentinel of Sorrow
+SadSham: The Sole Sentinel of Sorrow.
 
 In a world where emotions are as fleeting as the morning dew, there exists a singular figure who embodies the essence of melancholy like no other—SadSham, the enigmatic harbinger of heartache.
 
